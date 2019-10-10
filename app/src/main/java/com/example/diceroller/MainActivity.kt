@@ -6,7 +6,7 @@ import android.widget.TextView
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import java.util.*
-
+import java.net.Socket
 
 class MainActivity : AppCompatActivity() {
 
