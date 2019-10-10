@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import java.util.*
 import java.net.Socket
 
+
 class MainActivity : AppCompatActivity() {
 
     lateinit var diceImage: ImageView
